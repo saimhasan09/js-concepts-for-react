@@ -34,3 +34,12 @@
 
 1. array destructuring
 2. objects destructruring
+
+----------------  42-4  ----------------------
+
+1. JSON  (stringify , parse)
+2. fetch
+3. keys and value
+4. for 
+5. add or remove using dots(...)
+6. 
