@@ -55,3 +55,5 @@ shortcuts
 6. use of && ||
 7. toggle boolean
 
+----------------  42-7  ----------------------
+explore localstorage and session storage with json
