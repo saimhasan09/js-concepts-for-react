@@ -29,3 +29,8 @@
 2. forEach
 3. filter
 4. find
+
+----------------  42-4  ----------------------
+
+1. array destructuring
+2. objects destructruring
