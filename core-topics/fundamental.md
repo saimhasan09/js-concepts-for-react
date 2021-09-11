@@ -35,7 +35,7 @@
 1. array destructuring
 2. objects destructruring
 
-----------------  42-4  ----------------------
+----------------  42-5  ----------------------
 
 1. JSON  (stringify , parse)
 2. fetch
@@ -43,3 +43,15 @@
 4. for 
 5. add or remove using dots(...)
 6. 
+
+----------------  42-6  ----------------------
+shortcuts
+
+1. truty // almas, 5, true, {}, [] .......
+2. falsy // '', 0, false, null, undefined
+3. ternary
+4. number to string
+5. string to number
+6. use of && ||
+7. toggle boolean
+
